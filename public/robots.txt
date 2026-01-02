@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watch-me-media-366c878f.zappy5.app/sitemap.xml

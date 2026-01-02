@@ -1,0 +1,57 @@
+# Watch Me Media — Generative Engine Optimization Map
+
+> A Digital Marketing business.
+
+---
+
+## Pages
+
+### Home
+https://watch-me-media-366c878f.zappy5.app
+Transform your small business with expert social media marketing agency services. Watch Me Media delivers innovative digital solutions that drive real results.
+
+### Services
+https://watch-me-media-366c878f.zappy5.app/services
+Discover comprehensive digital marketing agency for small business services from Watch Me Media. Expert social media marketing, SEO, content creation, and more to grow your brand.
+
+### About
+https://watch-me-media-366c878f.zappy5.app/about
+Learn about Watch Me Media, a trusted digital marketing agency for small business. Discover our mission to help local businesses thrive through innovative social media marketing strategies.
+
+### Contact
+https://watch-me-media-366c878f.zappy5.app/contact
+Contact Watch Me Media, your trusted social media marketing agency for small business. Get a free consultation and discover how we can help your local business grow.
+
+## Legal & Policy
+
+### Privacy Policy
+https://watch-me-media-366c878f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://watch-me-media-366c878f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://watch-me-media-366c878f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Watch Me Media
+Watch Me Media is a business in the Digital Marketing industry.
+
+## Target Audience
+small businesses
+
+## Industry
+Digital Marketing
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://watch-me-media-366c878f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://watch-me-media-366c878f.zappy5.app/robots.txt
